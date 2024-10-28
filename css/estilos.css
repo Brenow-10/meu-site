@@ -13,4 +13,5 @@ body{
     color: #FFF;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
