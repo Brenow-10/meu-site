@@ -110,3 +110,10 @@ main .tech .cards-container .card img{
     width: 60%;
 transition: 0.2s ease-in-out;
 }
+/*Sobre mim KIKKKKKK*/
+main figure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
