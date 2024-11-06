@@ -123,4 +123,6 @@ main figure img{
     border-radius: 200px;
     margin-bottom: 6%;
     border: 10px solid #00e0ff;
+    transition: 0.2s ease-in-out;
+    cursor:pointer;
 }
