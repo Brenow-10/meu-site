@@ -117,3 +117,7 @@ main figure{
     align-items: center;
     justify-content: center;
 }
+main figure img{
+    width: 400px;
+    height: 400px;
+}
