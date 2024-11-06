@@ -100,7 +100,7 @@ main .techs .cards-container .card:nth-child(4){
     margin-right: 0em;
 }
 main .techs .cards-container .card:hover{
-    box-shadow: 10px 10px 10px #fff
+    box-shadow: 10px 10px 1px #fff
 }
 main .main-content .techs .cards-container .card img{
     width: 60%;
