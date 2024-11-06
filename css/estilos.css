@@ -94,17 +94,13 @@ main .techs .cards-container .cards{
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: 0.2s ease-in-out
-}
+    transition: 0.2s ease-in-out}
 main .techs .cards-container .card:nth-child(4){
     margin-right: 0em;
 }
 main .techs .cards-container .card img{
     width: 60%;
     transition: 0.2s ease-in-out; 
-}
-main .techs .cards-container .card:nth-child(4){
-    margin-right: 0em;
 }
 main .tech .cards-container .card img{
     width: 60%;
