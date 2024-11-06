@@ -82,8 +82,7 @@ main .main-content .text p {
 /*Cards*/
 main .techs .cards-container{
     display: flex;
-    align-items: center;
-}
+    align-items: center;}
 main .techs .cards-container .cards{
     width: 120px;
     height: 120px;
