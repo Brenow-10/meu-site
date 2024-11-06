@@ -53,13 +53,14 @@ header h1, A{
 header h1:hover, a:hover{
     color: #00E0FF;
 }
-/*Main Content*/
+/*MAIN*/
 main{
     padding: 5%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+/*MAIN CONTENT*/
 main .main-content{
     display: flex;
     flex-direction: column;
